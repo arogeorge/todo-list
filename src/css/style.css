@@ -1,0 +1,10 @@
+.todo-list {
+  margin-top: 15px;
+}
+
+.todo-completed {
+  text-decoration: line-through;
+}
+
+.bt{margin-left:5px}
+.visib{visibility:hidden}
